@@ -19,6 +19,7 @@
     "react-date-picker": "^10.6.0",
     "react-dom": "^18.2.0",
     "react-swipeable-list": "^1.9.3",
+    "serve": "^14.2.3",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
